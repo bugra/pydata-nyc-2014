@@ -1,2 +1,5 @@
 # Serializations Directory
 serializations/
+
+# IPython Notebook Checkpoints
+.ipynb_checkpoints/
