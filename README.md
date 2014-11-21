@@ -13,4 +13,5 @@ The dependencies are given in the 0th notebook, to reproduce it, makes sure you
 have at least those versions in that notebook. Otherwise, please feel free to 
 open an issue in this repository.
 
-
+You could browse the IPython notebooks in
+[nbviewer](http://nbviewer.ipython.org/github/bugra/pydata-nyc-2014/tree/master/)
