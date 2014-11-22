@@ -15,3 +15,5 @@ open an issue in this repository.
 
 You could browse the IPython notebooks in
 [nbviewer](http://nbviewer.ipython.org/github/bugra/pydata-nyc-2014/tree/master/)
+
+[http://bit.ly/pydata-nyc-2014-deck](http://bit.ly/pydata-nyc-2014-deck)
